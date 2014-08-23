@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Uniplate", "src\Uniplate.fsproj", "{A80A1F7F-CCE9-4AA1-A340-57308C4C6FFF}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Uniplate.Examples", "examples\Uniplate.Examples.fsproj", "{63BC758B-B1C4-48C4-A6A4-3D123079EB6A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Uniplate.Tests", "tests\Uniplate.Tests.fsproj", "{265299B7-830A-4276-BB21-47A1371AB067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80A1F7F-CCE9-4AA1-A340-57308C4C6FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80A1F7F-CCE9-4AA1-A340-57308C4C6FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80A1F7F-CCE9-4AA1-A340-57308C4C6FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80A1F7F-CCE9-4AA1-A340-57308C4C6FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BC758B-B1C4-48C4-A6A4-3D123079EB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BC758B-B1C4-48C4-A6A4-3D123079EB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BC758B-B1C4-48C4-A6A4-3D123079EB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BC758B-B1C4-48C4-A6A4-3D123079EB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265299B7-830A-4276-BB21-47A1371AB067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265299B7-830A-4276-BB21-47A1371AB067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265299B7-830A-4276-BB21-47A1371AB067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265299B7-830A-4276-BB21-47A1371AB067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
