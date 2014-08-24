@@ -86,7 +86,7 @@ val it : Exp = Not (Var "X")
 
 ```
 
-Defining Uniplate instances manually
+Defining uniplate instances manually
 ---------------------------------------
 Rather than using the `derive` function for creating a unipate instance, you may also define it manually with `mkUniplate` by specifying a function for how to decompose values. Its signature is:
 
