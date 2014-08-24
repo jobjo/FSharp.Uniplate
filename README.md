@@ -5,7 +5,7 @@ FSharp.Uniplate
 
 The library relies on reflection to automatically derive uniplate instances for arbitrary algebraic data types.
 
-Basic Usage
+Basic usage
 =================
 Consider the following type for representing boolean expressions:
 
